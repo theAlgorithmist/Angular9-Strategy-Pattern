@@ -84,7 +84,7 @@ Have fun!!
 
 Here is a screen shot of the Canvas simulation (algorithm id: 1).
 
-!['Canvas Simulation'](https://github.com/theAlgorithmist/Angular9-Strategy-Pattern/tree/master/images/canvas.png)
+!['Canvas Simulation'](images/canvas.png)
 
 ## Development server
 
